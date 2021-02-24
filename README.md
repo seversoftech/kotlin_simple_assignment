@@ -1,1 +1,1 @@
-# kotlin_simple_assignment
+# kotlin_simple_assignment_on_variables
