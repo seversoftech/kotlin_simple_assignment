@@ -1,0 +1,16 @@
+//  Complete Metadata of one of my favourite Classical piece
+
+var SongName:String = "Symphony No. 1 in D major Movement 4"
+var Artist: String = "Franz Joseph Haydn"
+var Genre:String = "Classical"
+var SubGenre:String = "Symphony"
+var Composer:String = "Franz Joseph Haydn"
+var YearComposed:Int = 1759
+var songLength_inSeconds :Float  =750f
+var ContactInfo:Char = "Not Available"
+var Lyrics:Char = "Unavailable because its pure instrumentation"
+var SongSummary: Char="Joseph Haydn's Symphony No. 1 in D major, Hoboken I/1, was written in 1759 in Dolní Lukavice, while in the service of Count Morzin."
+var Mood: String ="Relaxation Music"
+var Keywords: String="Symphony, Movements, Number4 Orchestration, Classical, Relaxation, More..."
+var Instruments Char = "Violin, Viola, Cello, Double Bass, Trumpets, Trombone, Baritone, Clarinets, Flutes, More..."
+var SongAvailability:Boolean = true
